@@ -23,7 +23,7 @@ This project analyzes sentiment from Reddit discussions about stocks and explore
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/stock-sentiment-analysis.git
+   git clone https://github.com/deeshanshi/stock-sentiment-analysis.git
 ## Results
 
 ### Processed Data
@@ -40,3 +40,4 @@ This project analyzes sentiment from Reddit discussions about stocks and explore
 - [PRAW](https://praw.readthedocs.io/): Python Reddit API Wrapper.
 - [VADER Sentiment](https://github.com/cjhutto/vaderSentiment): Sentiment analysis library.
 - [Yahoo Finance API](https://pypi.org/project/yfinance/): Stock data retrieval.
+- github link-https://github.com/deeshanshi/stock-sentiment-analysis
